@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: 2020-09-15T11:30:03+00:00 # {{ .Date }}
+draft: true
 # weight: 1
 # aliases: ["/first"]
 tags: [""]
@@ -8,7 +9,6 @@ author: "Brandon Marcum"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
 hidemeta: false
 comments: false
 description: "Desc Text."

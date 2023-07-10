@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2020-09-15T11:30:03+00:00 # 2023-07-10T16:01:10-04:00
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["First"]

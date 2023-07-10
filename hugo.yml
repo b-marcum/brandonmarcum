@@ -1,6 +1,6 @@
 baseURL: http://www.brandonmarcum.net/
 languageCode: en-us
-title: BrandonMarcum.com
+title: BrandonMarcum.net
 paginate: 5
 theme: "PaperMod"
 
@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: BrandonMarcum.com
+  title: BrandonMarcum.net
   description: "Landing page for Brandon Marcum"
   keywords: [Blog, Portfolio, Tech, Networking]
   author: Brandon Marcum

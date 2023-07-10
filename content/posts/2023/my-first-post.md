@@ -1,5 +1,6 @@
 ---
 title: "My First Post"
+description: "Hi!"
 date: 2023-07-10T19:14:05-04:00
 draft: false
 # weight: 1
@@ -11,7 +12,6 @@ showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false

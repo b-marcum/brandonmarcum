@@ -12,7 +12,7 @@ showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://www.brandonmarcum.net/posts/2023/my-first-post"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

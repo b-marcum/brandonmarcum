@@ -12,7 +12,7 @@ TocOpen: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://www.brandonmarcum.net/posts/2023/{{ title }}"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

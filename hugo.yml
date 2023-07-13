@@ -62,7 +62,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Brandon Marcum"
     subtitle: "Just some guy in tech"
-    imageUrl: "images/bm.jpg"
+    imageUrl: "images/bm.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image

@@ -1,6 +1,6 @@
 baseURL: http://www.brandonmarcum.net/
 languageCode: en-us
-title: BrandonMarcum.net
+title: Brandon Marcum
 paginate: 5
 theme: "PaperMod"
 
@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: BrandonMarcum.net
+  title: Brandon Marcum
   description: "Landing page for Brandon Marcum"
   keywords: [Blog, Portfolio, Tech, Networking]
   author: Brandon Marcum
@@ -53,15 +53,15 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "BrandonMarcum.net"
+    text: "Brandon Marcum"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Brandon Marcum"
-    subtitle: "Just some guy in tech"
+    title: "Hi, I'm Brandon"
+    subtitle: "I'm a **solutions architect** in the technology sector "
     imageUrl: "images/bm.jpg"
     imageWidth: 120
     imageHeight: 120

@@ -35,7 +35,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Hello world!
+## Hello world
 
 I'm still doing initial setup at the moment but stay tuned for more.
 

@@ -18,11 +18,11 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Brandon Marcum
-  description: "Landing page for Brandon Marcum"
+  description: "I leverage technology to solve real world problems"
   keywords: [Blog, Portfolio, Tech, Networking]
   author: Brandon Marcum
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://www.brandonmarcum.net/images/bm.png, https://www.brandonmarcum.net/images/bm.png>"] # [Opengraph, Twitter Cards]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # auto, dark, light
   disableThemeToggle: false

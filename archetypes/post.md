@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+description: "Desc Text."
 date: {{ .Date }}
 draft: true
 # weight: 1
@@ -11,9 +12,7 @@ showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-description: "Desc Text."
 canonicalURL: "https://www.brandonmarcum.net/posts/2023/{{ title }}"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

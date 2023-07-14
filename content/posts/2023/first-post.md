@@ -13,7 +13,6 @@ TocOpen: false
 hidemeta: false
 comments: false
 canonicalURL: "https://www.brandonmarcum.net/posts/2023/first-post"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

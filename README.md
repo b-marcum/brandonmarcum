@@ -2,7 +2,16 @@
 
 Leverages [Hugo](https://gohugo.io/)
 
-Blog creation example
+## Quick Reference
+
+Clone theme submodule
+
 ```bash
-hugo new --kind post posts/2023/my-first-post.md
+git submodule update --init --recursive # needed when you reclone your repo (submodules may not get cloned automatically)
+```
+
+Blog creation example
+
+```bash
+hugo new --kind post posts/2023/first-post.md
 ```

@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "First Post"
 description: ""
 date: 2023-07-10T19:14:05-04:00
 draft: false
@@ -12,7 +12,7 @@ showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-canonicalURL: "https://www.brandonmarcum.net/posts/2023/my-first-post"
+canonicalURL: "https://www.brandonmarcum.net/posts/2023/first-post"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -38,6 +38,6 @@ editPost:
 
 ## Hello world!
 
-I'm still doing initial setup for this site at the moment and don't really have too much to say. Stay tuned for more.
+I'm still doing initial setup at the moment but stay tuned for more.
 
 ¯\\_(ツ)_/¯

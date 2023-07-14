@@ -22,7 +22,7 @@ params:
   keywords: [Blog, Portfolio, Tech, Networking]
   author: Brandon Marcum
   # author: ["Me", "You"] # multiple authors
-  images: ["https://www.brandonmarcum.net/images/bm.png"]
+  images: ["https://www.brandonmarcum.net/images/cover.jpeg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # auto, dark, light
   disableThemeToggle: false

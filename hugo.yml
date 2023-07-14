@@ -49,7 +49,7 @@ params:
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
+    apple_touch_icon: "images/bm.png"
     safari_pinned_tab: "<link / abs url>"
 
   label:
@@ -62,7 +62,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Brandon Marcum"
     subtitle: "I leverage technology to solve real world problems"
-    imageUrl: "images/bm.jpg"
+    imageUrl: "images/bm.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image

@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-description: "Hi!"
+description: ""
 date: 2023-07-10T19:14:05-04:00
 draft: false
 # weight: 1
@@ -36,8 +36,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Hi
+## Hello world!
 
-Not much to say at the moment so stay tuned
+I'm still working on getting the site setup at the moment and don't really have too much to say at the moment but stay tuned.
 
 ¯\\_(ツ)_/¯

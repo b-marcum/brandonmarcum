@@ -60,8 +60,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Hi, I'm Brandon"
-    subtitle: "I'm a **solutions architect** in the technology sector "
+    title: "Brandon Marcum"
+    subtitle: "I leverage technology to solve real world problems"
     imageUrl: "images/bm.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -99,7 +99,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/b-marcum/brandonmarcum/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

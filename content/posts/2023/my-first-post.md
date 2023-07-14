@@ -38,6 +38,6 @@ editPost:
 
 ## Hello world!
 
-I'm still working on getting the site setup at the moment and don't really have too much to say at the moment but stay tuned.
+I'm still doing initial setup for this site at the moment and don't really have too much to say. Stay tuned for more.
 
 ¯\\_(ツ)_/¯

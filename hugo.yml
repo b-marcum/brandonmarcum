@@ -67,10 +67,10 @@ params:
     imageHeight: 180
     imageTitle: my image
     buttons:
-      - name: Posts
+      - name: Blog
         url: posts
-      - name: Tags
-        url: tags
+      # - name: Tags
+      #   url: tags
 
   # home-info mode
   homeInfoParams:
@@ -116,17 +116,17 @@ params:
 menu:
   main:
     - identifier: posts
-      name: posts
+      name: Blog
       url: /posts/
       weight: 10
     # - identifier: categories
     #   name: categories
     #   url: /categories/
     #   weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
+    #   weight: 20
     # - identifier: example
     #   name: example.org
     #   url: https://example.org

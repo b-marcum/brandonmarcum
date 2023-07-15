@@ -24,11 +24,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    image: "/images/cover.jpeg" # image path/url
+    alt: "Fall colors" # alt text
+    caption: "Photo by Brandon Marcum" # display caption under cover
+    relative: true # when using page bundles set this to true
+    hidden: false # only hide on current single page
 # editPost:
 #     URL: "https://github.com/b-marcum/brandonmarcum/tree/main/content"
 #     Text: "Suggest Changes" # edit text

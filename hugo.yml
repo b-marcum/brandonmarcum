@@ -63,8 +63,8 @@ params:
     title: "Brandon Marcum"
     subtitle: "I leverage technology to solve real world problems"
     imageUrl: "/images/bm.png"
-    imageWidth: 180
-    imageHeight: 180
+    imageWidth: 250
+    imageHeight: 250
     imageTitle: my image
     buttons:
       - name: Blog

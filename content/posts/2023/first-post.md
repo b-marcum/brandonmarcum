@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/cover.jpeg" # image path/url
+    image: "/images/cover.jpg" # image path/url
     alt: "Fall colors" # alt text
     caption: "Photo by Brandon Marcum" # display caption under cover
     relative: false # when using page bundles set this to true

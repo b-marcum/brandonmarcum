@@ -22,7 +22,7 @@ params:
   keywords: [Blog, Portfolio, Tech, Networking]
   author: Brandon Marcum
   # author: ["Me", "You"] # multiple authors
-  images: ["/images/cover.jpeg"]
+  images: ["/images/cover.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # auto, dark, light
   disableThemeToggle: false
@@ -65,7 +65,7 @@ params:
     imageUrl: "/images/bm.png"
     imageWidth: 250
     imageHeight: 250
-    imageTitle: my image
+    imageTitle: Profile
     buttons:
       - name: Blog
         url: posts

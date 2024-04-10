@@ -78,7 +78,7 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
+    - name: x
       url: "https://twitter.com/Brand0nMarcum"
     - name: linkedin
       url: "https://www.linkedin.com/in/brandonmarcum/"

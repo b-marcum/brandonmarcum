@@ -69,6 +69,8 @@ params:
     buttons:
       - name: Blog
         url: posts
+      - name: About
+        url: about
       # - name: Tags
       #   url: tags
 
@@ -119,6 +121,10 @@ menu:
       name: Blog
       url: /posts/
       weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
     # - identifier: categories
     #   name: categories
     #   url: /categories/

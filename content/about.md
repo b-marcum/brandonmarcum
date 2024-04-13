@@ -29,4 +29,4 @@ Welcome to my personal website. This site serves as a minimalist landing page fo
 
 My natural curiosity drives a strong passion for technology which is used to solve real world challenges for people and businesses every day in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), the leading global digital services and solutions provider.
 
-I have a broad systems infrastructure background of 20+ years but my primary focus is on networking, security, automation, and observability that stitches the world together.
+I have a broad systems infrastructure background of 20+ years but my primary focus is centered on networking, security, automation, and observability that stitches the world together.

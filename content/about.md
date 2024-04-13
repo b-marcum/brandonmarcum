@@ -31,4 +31,4 @@ I have a natural curiosity that drives my strong passion for technology which I 
 
 I have a broad systems infrastructure background of 20+ years but my primary focus is around networking, security, automation, and observability that stitches the world together.
 
-My current role is Senior Solutions Architect at [Presidio](https://www.presidio.com/), a global solutions provider.
+My current role is Senior Solutions Architect at [Presidio](https://www.presidio.com/), a leading global solutions provider.

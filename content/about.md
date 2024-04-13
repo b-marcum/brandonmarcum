@@ -1,8 +1,32 @@
 ---
 title: "About"
+draft: false
+author: "Brandon Marcum"
+showToc: false
+TocOpen: false
 hidemeta: true
+comments: false
+canonicalURL: "https://www.brandonmarcum.net/posts/2023/{{ title }}"
+disableShare: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: false
+ShowBreadCrumbs: true
+ShowPostNavLinks: false
+ShowWordCount: false
+ShowRssButtonInSectionTermList: false
+UseHugoToc: true
+cover:
+    image: "/images/bm-clus-2022.jpg" # image path/url
+    alt: "Cisco Live US 2022" # alt text
+    caption: "Cisco Live US 2022" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 ---
 
-Brandon is a bit of a tinkerer and tends to break things to learn how they work. 
+Brandon has a natural curiosity and strong passion for Technology.
 
-His natural curiosity is how he ended up in Tech where today, he leverages technology to solve business challenges for companies of all sizes.
+Today he serves customers of all sizes as a Senior Solutions Architect for a leading global solutions provider, [Presidio](https://www.presidio.com/), where he leverages technology to solve real world business challenges.
+
+The purpose of this site is to serve as a minimalist landing page to aggregate platforms and share content.

@@ -25,8 +25,10 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-Brandon has a natural curiosity and strong passion for Technology.
+Welcome to my personal website. This site serves as a minimalist landing page to aggregate links to platforms and independently share content.
 
-Today he serves customers of all sizes as a Senior Solutions Architect for a leading global solutions provider, [Presidio](https://www.presidio.com/), where he leverages technology to solve real world business challenges.
+I have a natural curiosity that drives my strong passion for technology which I use to solve real world challenges for people and businesses every day.
 
-The purpose of this site is to serve as a minimalist landing page to aggregate platforms and share content.
+I have a broad systems infrastructure background of 20+ years but my primary focus is around networking, security, automation, and observability that stitches the world together.
+
+My current role is Senior Solutions Architect at [Presidio](https://www.presidio.com/), a global solutions provider.

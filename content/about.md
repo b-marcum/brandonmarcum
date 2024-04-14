@@ -19,14 +19,21 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
     image: "/images/bm-clus-2022.jpg" # image path/url
-    alt: "Cisco Live US 2022" # alt text
-    caption: "Cisco Live US 2022" # display caption under cover
+    alt: "Brandon @ Cisco Live, US in 2022" # alt text
+    caption: "Brandon @ Cisco Live, US in 2022" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
 
-Welcome to my personal website. This site serves as a minimalist landing page for aggregation of links to platforms and a place to independently share content.
+Thanks for checking out my minimalist website developed to have:
 
-My natural curiosity drives a strong passion for technology which is used to solve real world challenges for people and businesses every day in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), the leading global digital services and solutions provider.
+- An independent place to share content over time.
+- An Aggregation point for links to social media
 
-I have a broad systems infrastructure background of 20+ years but my primary focus is centered on networking, security, automation, and observability that stitches the world together.
+## Who is Brandon Marcum
+
+I currently reside in the Charlotte, North Carolina metro of the US but I'm originally from Hampton Roads region of Virginia.
+
+My natural curiosity is what drives my strong passion for technology which I leverage to solve real world challenges for people and businesses every day in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), the leading global digital services and solutions provider.
+
+I have a broad systems infrastructure background of 20+ years with a primary focus in networking, security, automation, and observability.

@@ -25,15 +25,8 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-Thanks for checking out my minimalist website developed to be:
+I live in the greater [Charlotte, North Carolina](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina) area the US but I'm originally from the [Hampton Roads](https://en.wikipedia.org/wiki/Hampton_Roads) region of Virginia.
 
-- An independent place to share content over time.
-- An Aggregation point for links to social media
+My natural curiosity and desire to learn is what drives my strong passion for technology. I leverage this day-to-day to solve real world challenges for people and businesses in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), the leading global digital services and solutions provider.
 
-## Who is Brandon Marcum
-
-I currently reside in the Charlotte, North Carolina metro of the US but I'm originally from the Hampton Roads region of Virginia.
-
-My natural curiosity is what drives my strong passion for technology which I leverage to solve real world challenges for people and businesses every day in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), the leading global digital services and solutions provider.
-
-I have a broad systems infrastructure background of 20+ years with a primary focus in networking, security, automation, and observability.
+I have developed a broad IT infrastructure background over the past 20+ years. Today, my primary focus is in networking, security, automation, and observability.

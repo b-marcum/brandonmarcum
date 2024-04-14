@@ -25,14 +25,14 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-Thanks for checking out my minimalist website developed to have:
+Thanks for checking out my minimalist website developed to be:
 
 - An independent place to share content over time.
 - An Aggregation point for links to social media
 
 ## Who is Brandon Marcum
 
-I currently reside in the Charlotte, North Carolina metro of the US but I'm originally from Hampton Roads region of Virginia.
+I currently reside in the Charlotte, North Carolina metro of the US but I'm originally from the Hampton Roads region of Virginia.
 
 My natural curiosity is what drives my strong passion for technology which I leverage to solve real world challenges for people and businesses every day in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), the leading global digital services and solutions provider.
 

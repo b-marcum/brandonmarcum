@@ -29,4 +29,4 @@ I live in the greater [Charlotte, North Carolina](https://en.wikipedia.org/wiki/
 
 My natural curiosity and desire to learn is what drives my strong passion for technology. I leverage this day-to-day to solve real world challenges for people and businesses in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), the leading global digital services and solutions provider.
 
-I have developed a broad IT infrastructure background over the past 20+ years. Today, my primary focus is in networking, security, automation, and observability.
+I have a broad IT infrastructure background of 20+ years. Today, my primary focus is in networking, security, automation, and observability.

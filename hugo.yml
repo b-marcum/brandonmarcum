@@ -80,10 +80,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: x
-      url: "https://twitter.com/Brand0nMarcum"
     - name: linkedin
       url: "https://www.linkedin.com/in/brandonmarcum/"
+    - name: x
+      url: "https://twitter.com/Brand0nMarcum"
     - name: github
       url: "https://github.com/b-marcum"
 

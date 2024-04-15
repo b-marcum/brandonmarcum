@@ -7,7 +7,12 @@
   <!-- Setup and start animation! -->
   <script>
     var typed = new Typed('#element', {
-      strings: ['Father',  'Solutions Architect', 'I leverage technology to solve real world problems'],
+      strings: [
+        {{ $array := split (.Get "data") "," }}
+        {{ range $array }}
+        {{ . }},
+        {{ end }}
+      ],
       smartBackspace: true, //Default value
       typeSpeed: 50,
     });

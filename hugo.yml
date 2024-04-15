@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Brandon Marcum"
-    subtitle: "{{< typed >}}"
+    subtitle: '{{< typed data="Proud Father,Solutions Architect,I leverage technology to solve real world problems">}}'
     imageUrl: "/images/bm.png"
     imageWidth: 250
     imageHeight: 250

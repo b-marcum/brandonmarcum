@@ -21,5 +21,5 @@ git submodule update --remote
 Blog creation example
 
 ```bash
-hugo new --kind post posts/2023/first-post.md
+hugo new content posts/2023/first-post.md 
 ```

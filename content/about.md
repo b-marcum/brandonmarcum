@@ -25,8 +25,8 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-I live in the greater [Charlotte, North Carolina](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina) area of the US but I'm originally from the [Hampton Roads](https://en.wikipedia.org/wiki/Hampton_Roads) region of Virginia.
+I live in the greater [Charlotte, North Carolina](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina) area of the United States but I'm originally from the [Hampton Roads](https://en.wikipedia.org/wiki/Hampton_Roads) region of Virginia.
 
-My natural curiosity and desire to learn is what drives my strong passion for technology. I leverage this day-to-day to solve real world challenges for people and businesses in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), the leading global digital services and solutions provider.
+My natural curiosity and desire to learn is what drives my strong passion for technology. I leverage this day-to-day to solve real world challenges for people and businesses in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), a leading technology services and solutions provider.
 
 I have a broad IT infrastructure background of 20+ years. Today, my primary focus is in networking, security, automation, and observability.

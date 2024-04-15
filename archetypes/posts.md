@@ -12,7 +12,7 @@ showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
-canonicalURL: "https://www.brandonmarcum.net/posts/2023/{{ title }}"
+canonicalURL: "https://www.brandonmarcum.net/posts/2023/{{ .Name }}"
 disableShare: false
 disableHLJS: false
 hideSummary: false

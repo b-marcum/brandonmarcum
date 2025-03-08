@@ -18,15 +18,15 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
-    image: "/images/bm-clus-2022.jpg" # image path/url
-    alt: "Brandon @ Cisco Live, US in 2022" # alt text
-    caption: "Brandon @ Cisco Live, US in 2022" # display caption under cover
+    image: "/images/bm-prof-2024.jpg" # image path/url
+    alt: "Brandon Marcum" # alt text
+    caption: "Brandon Marcum" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
 
-I live in the greater [Charlotte, North Carolina](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina) area of the United States but I'm originally from the [Hampton Roads](https://en.wikipedia.org/wiki/Hampton_Roads) region of Virginia.
+I live in the greater [Charlotte, North Carolina](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina) area of the United States.
 
-My natural curiosity and desire to learn is what drives my strong passion for technology. I leverage this day-to-day to solve real world challenges for people and businesses in my current role as a Senior Solutions Architect at [Presidio](https://www.presidio.com/), a leading technology services and solutions provider.
+My natural curiosity and desire to learn is what drives my strong passion for technology. I leverage this day-to-day to solve real world challenges for people and businesses.
 
-I have a broad IT infrastructure background of 20+ years. Today, my primary focus is in networking, security, automation, and observability.
+I have a broad IT infrastructure background of 20+ years. Today, my primary focus is in data center/enterprise networking, automation, security, and observability.

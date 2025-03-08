@@ -1,7 +1,7 @@
 baseURL: http://www.brandonmarcum.net/
 languageCode: en-us
 title: Brandon Marcum
-paginate: 5
+pagination.pagerSize: 5
 theme: "PaperMod"
 
 enableRobotsTXT: true
@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Brandon Marcum"
-    subtitle: '{{< typed data="Lifelong Learner,Solutions Architect,I leverage technology to solve real world problems">}}'
+    subtitle: '{{< typed data="Lifelong Learner,I leverage technology to solve real world problems">}}'
     imageUrl: "/images/bm.png"
     imageWidth: 250
     imageHeight: 250

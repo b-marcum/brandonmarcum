@@ -18,7 +18,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
-    image: "/images/bm-prof-2024.jpg" # image path/url
+    image: "/images/bm-prof-2024.webp" # image path/url
     alt: "Brandon Marcum" # alt text
     caption: "Brandon Marcum" # display caption under cover
     relative: false # when using page bundles set this to true

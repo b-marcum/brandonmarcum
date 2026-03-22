@@ -25,8 +25,8 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-I live in the greater [Charlotte, North Carolina](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina) area of the United States.
+Welcome to my small corner of the Internet. I'm originaly from [Hampton Roads, Virginia](https://en.wikipedia.org/wiki/Hampton_Roads) but moved to the [Charlotte, North Carolina](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina) area back in 2012.
 
 My natural curiosity and desire to learn is what drives my strong passion for technology. I leverage this day-to-day to solve real world challenges for people and businesses.
 
-I have a broad IT infrastructure background of 20+ years. Today, my primary focus is in data center/enterprise networking, automation, security, and observability.
+From a career perspective, I have a broad IT infrastructure background of 20+ years in data center and enterprise networking with a strong focus on automation, security, and observability as an Advisory Systems Engineer at [Arista Networks](https://www.arista.com).

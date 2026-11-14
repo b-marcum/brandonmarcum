@@ -60,7 +60,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: "Brandon Marcum"
     subtitle: '{{< typed data="Lifelong Learner,I leverage technology to solve real world problems">}}'
     imageUrl: "/images/bm.png"
@@ -120,14 +120,25 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: posts
-      name: Blog
-      url: /posts/
+    - identifier: home
+      name: Home
+      url: /
       weight: 10
+
+    - identifier: experience
+      name: Experience
+      url: /experience/
+      weight: 20
+
     - identifier: about
       name: About
       url: /about/
-      weight: 20
+      weight: 30
+
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      weight: 40
     # - identifier: categories
     #   name: categories
     #   url: /categories/

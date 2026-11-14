@@ -1,0 +1,18 @@
+
+<article class="career-entry">
+  <div class="career-content">
+    <header class="career-header">
+      <h2>{{ .Get "company" }}</h2>
+
+      {{ with .Get "period" }}
+        <span class="career-period">{{ . }}</span>
+      {{ end }}
+    </header>
+
+    <p class="career-role">{{ .Get "role" }}</p>
+
+    <div class="career-description">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+</article>

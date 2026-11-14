@@ -1,0 +1,74 @@
+
+/* Experience timeline */
+
+.post-content .career-entry {
+  position: relative;
+  margin-left: 8px;
+  padding: 0 0 36px 30px;
+  border-left: 2px solid var(--border);
+}
+
+.post-content .career-entry::before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 8px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--primary);
+  border: 3px solid var(--theme);
+}
+
+.post-content .career-entry:last-of-type {
+  border-left-color: transparent;
+}
+
+.post-content .career-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+}
+
+.post-content .career-header h2 {
+  font-size: 1.3rem;
+  margin: 0;
+  color: var(--primary);
+}
+
+.post-content .career-period {
+  color: var(--secondary);
+  font-size: 0.85rem;
+}
+
+.post-content .career-role {
+  color: var(--primary);
+  font-weight: 600;
+  margin: 6px 0 12px;
+}
+
+.post-content .career-description {
+  color: var(--secondary);
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.post-content .career-description ul {
+  margin-top: 12px;
+}
+
+.post-content .career-description li {
+  margin-bottom: 8px;
+}
+
+@media (max-width: 600px) {
+  .post-content .career-entry {
+    padding-left: 22px;
+  }
+
+  .post-content .career-header {
+    display: block;
+  }
+}

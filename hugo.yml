@@ -1,5 +1,5 @@
 baseURL: http://www.brandonmarcum.net/
-languageCode: en-us
+locale: en-US
 title: Brandon Marcum
 pagination.pagerSize: 5
 theme: "PaperMod"

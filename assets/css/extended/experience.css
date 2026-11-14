@@ -72,3 +72,12 @@
     display: block;
   }
 }
+
+/* Compact timeline spacing */
+.post-content .career-entry {
+  padding-bottom: 26px;
+}
+
+.post-content .career-description p:last-child {
+  margin-bottom: 0;
+}

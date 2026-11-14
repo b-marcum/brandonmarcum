@@ -1,0 +1,92 @@
+
+{{ define "main" }}
+
+<div class="portfolio-home">
+
+  <section class="portfolio-hero">
+    <p class="portfolio-eyebrow">
+      NETWORK ARCHITECTURE · AUTOMATION · TECHNICAL ADVISORY
+    </p>
+
+    <h1>Brandon Marcum</h1>
+
+    <p class="portfolio-tagline">
+      Engineering Modern Network Infrastructure
+    </p>
+
+    <p class="portfolio-intro">
+      With over 20 years of experience in enterprise
+      networking, solutions architecture, and technical
+      advisory, I focus on designing resilient networks,
+      advancing automation, and modernizing infrastructure.
+    </p>
+
+    <div class="portfolio-actions">
+      <a class="portfolio-button primary" href="/experience/">
+        View Experience
+      </a>
+      <a class="portfolio-button secondary" href="/about/">
+        About Me
+      </a>
+    </div>
+
+    <div class="portfolio-social">
+      {{ partial "social_icons.html" (dict "align" "left") }}
+    </div>
+  </section>
+
+  <section class="portfolio-section">
+    <h2>Areas of Expertise</h2>
+
+    <div class="portfolio-grid">
+      <article class="portfolio-card">
+        <h3>Network Architecture</h3>
+        <p>
+          Data Center, Campus, Routing,
+          and scalable network design.
+        </p>
+      </article>
+
+      <article class="portfolio-card">
+        <h3>Network Automation</h3>
+        <p>
+          Python, Ansible, APIs, and
+          infrastructure as code.
+        </p>
+      </article>
+
+      <article class="portfolio-card">
+        <h3>Observability & Telemetry</h3>
+        <p>
+          Network visibility, streaming telemetry,
+          and infrastructure analytics.
+        </p>
+      </article>
+
+      <article class="portfolio-card">
+        <h3>Technical Advisory</h3>
+        <p>
+          Enterprise solution architecture,
+          technical validation, and enablement.
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <section class="portfolio-section portfolio-experience">
+    <h2>Professional Background</h2>
+
+    <p>
+      Experience spanning network engineering,
+      enterprise architecture, and technical advisory
+      roles at Arista Networks, Presidio, and Insight.
+    </p>
+
+    <a class="portfolio-text-link" href="/experience/">
+      Explore my experience &rarr;
+    </a>
+  </section>
+
+</div>
+
+{{ end }}

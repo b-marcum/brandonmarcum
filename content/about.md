@@ -11,24 +11,27 @@ cover:
   hidden: false
 ---
 
-I'm a network architect and technology enthusiast with over 20 years of experience working across enterprise networking, infrastructure, security, and automation.
+
+I'm a network architect, solutions engineer, and technology enthusiast with over 20 years of experience across enterprise networking, infrastructure, security, and automation.
 
 Originally from Hampton Roads, Virginia, I relocated to the Charlotte, North Carolina area in 2012.
 
-My career has taken me from hands-on network engineering and infrastructure operations to enterprise architecture, solutions engineering, and technical advisory roles.
+My career has given me experience on both sides of enterprise technology designing and operating large-scale infrastructure and helping organizations evaluate, design, and adopt new technologies.
 
-What has remained consistent is my curiosity about technology and my interest in finding better ways to design, build, and operate infrastructure.
+I believe effective architecture requires more than technical knowledge. It requires understanding business objectives, evaluating design tradeoffs, and developing solutions that are reliable, secure, scalable, and operationally sustainable.
+
 
 ## Technical Interests
 
-My primary interests include:
+- **Network Architecture:** Data center, campus, routing, EVPN/VXLAN, and distributed network architectures.
+- **Network Automation:** Python, Ansible, Terraform, APIs, infrastructure as code, and NetDevOps.
+- **Network Security:** Network segmentation, firewall architectures, secure connectivity, and zero trust networking.
+- **Solutions Engineering:** Business and technical requirements, architectural tradeoffs, technology evaluation, and solution validation.
+- **Network Observability:** Streaming telemetry, analytics, and data-driven network operations.
+- **Emerging Technologies:** Software-defined infrastructure, AI networking, and the application of artificial intelligence to network engineering.
 
-- **Network Architecture:** Data center, campus, routing, and large-scale enterprise infrastructure.
-- **Network Automation:** Python, Ansible, infrastructure as code, and repeatable deployment workflows.
-- **Observability:** Network telemetry, analytics, and operational visibility.
-- **Modern Infrastructure:** Software-defined networking, cloud technologies, and emerging AI infrastructure requirements.
+I'm particularly interested in the convergence of networking, software engineering, automation, and artificial intelligence, and how these disciplines are reshaping the way infrastructure is designed and operated.
 
-I'm particularly interested in how automation, programmability, and evolving operational models are changing the role of traditional network engineering.
 
 ## Professional Certifications
 
@@ -54,6 +57,16 @@ Information Systems Technology: Network Infrastructure
 - Cisco Networking Academy program
 
 
+
 ## Beyond Work
 
-Technology has always been more than a profession for me. I enjoy learning, experimenting with new tools, and exploring technologies that challenge how things have traditionally been done.
+{{< figure
+    src="/images/motorcycle.webp"
+    alt="Tail of the Dragon | 318 curves in just 11 miles"
+    loading="lazy"
+>}}
+
+Outside of my professional responsibilities, I enjoy experimenting with technology in my home lab, exploring open-source software, and learning new tools and automation frameworks.
+
+Away from technology, I enjoy playing guitar, exploring music, and riding motorcycles.
+

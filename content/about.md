@@ -68,5 +68,4 @@ Information Systems Technology: Network Infrastructure
 
 Outside of my professional responsibilities, I enjoy experimenting with technology in my home lab, exploring open-source software, and learning new tools and automation frameworks.
 
-Away from technology, I enjoy playing guitar, exploring music, and riding motorcycles.
-
+Away from technology, I enjoy hiking, playing guitar, and riding motorcycles.

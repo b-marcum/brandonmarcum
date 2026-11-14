@@ -10,13 +10,13 @@ Network architect and technical advisor with over 20 years of experience designi
 
 ## Recent Experience
 
-{{< career company="Insight Enterprises" role="Architect, Network & Security Solutions" period="Jul 2019 – Apr 2023" >}}
+{{< career company="Arista Networks" role="Advisory Systems Engineer" period="Mar 2025 – Present" >}}
 
-Led enterprise network architecture, pre- and post-sales solution design, and technical enablement for large multivendor environments.
+Provide technical advisory to enterprise customers across network architecture, automation, platform adoption, and modernization initiatives.
 
-- Developed outcome-based network and security architectures, technical proposals, SOWs, and BOMs for Fortune 500 customers.
-- Led practice development, technical mentoring, and architectural validation using network modeling and simulation tools.
-- Developed NetDevOps automation for network discovery and repeatable infrastructure provisioning.
+- Advise customers on data center, campus, routing, and automation strategies.
+- Identify technical gaps and expansion opportunities through discovery, solution validation, and proof-of-concept activities.
+- Develop Ansible automation and deliver technical workshops covering EOS, CloudVision, and Arista AVD (Architect, Validate, Deploy).
 
 {{< /career >}}
 
@@ -31,10 +31,10 @@ Designed enterprise network and security infrastructure solutions across on-prem
 
 {{< career company="Insight Enterprises" role="Architect, Network & Security Solutions" period="Jul 2019 – Apr 2023" >}}
 
-Led enterprise network architecture, solution design, and technical enablement for large multivendor environments.
+Led enterprise network architecture, pre- and post-sales solution design, and technical enablement for large multivendor environments.
 
-- Developed network and security architectures for Fortune 500 customers.
-- Designed standards and validated architectures using network modeling and simulation tools.
+- Developed outcome-based network and security architectures, technical proposals, SOWs, and BOMs for Fortune 500 customers.
+- Led practice development, technical mentoring, and architectural validation using network modeling and simulation tools.
 - Developed NetDevOps automation for network discovery and repeatable infrastructure provisioning.
 
 {{< /career >}}

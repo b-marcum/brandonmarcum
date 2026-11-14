@@ -6,7 +6,7 @@ showToc: false
 hidemeta: true
 ---
 
-Network architect and technical advisor with over 20 years of experience designing, securing, and automating enterprise network infrastructure across data center, campus, and routing environments.
+My career spans enterprise network engineering, infrastructure operations, solutions architecture, and technical advisory across a diverse range of industries and technology environments.
 
 ## Recent Experience
 

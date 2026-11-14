@@ -12,7 +12,7 @@ cover:
 ---
 
 
-I'm a network architect, solutions engineer, and technology enthusiast with over 20 years of experience across enterprise networking, infrastructure, security, and automation.
+I'm a network architect, solutions engineer, and lifelong technology enthusiast with a passion for networking, infrastructure, security, and automation.
 
 Originally from Hampton Roads, Virginia, I relocated to the Charlotte, North Carolina area in 2012.
 

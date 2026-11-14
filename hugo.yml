@@ -1,4 +1,4 @@
-baseURL: http://www.brandonmarcum.net/
+baseURL: https://www.brandonmarcum.net/
 locale: en-US
 title: Brandon Marcum
 pagination.pagerSize: 5
@@ -18,8 +18,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Brandon Marcum
-  description: "I leverage technology to solve real world problems"
-  keywords: [Blog, Portfolio, Tech, Networking]
+  description: "Network architect with over 20 years of experience in enterprise networking, infrastructure automation, and technical advisory."
+  keywords: [Portfolio, Tech, Networking]
   author: Brandon Marcum
   # author: ["Me", "You"] # multiple authors
   images: ["/images/cover.jpg"]
@@ -135,10 +135,10 @@ menu:
       url: /about/
       weight: 30
 
-    - identifier: posts
-      name: Blog
-      url: /posts/
-      weight: 40
+    # - identifier: posts
+    #   name: Blog
+    #   url: /posts/
+    #   weight: 40
     # - identifier: categories
     #   name: categories
     #   url: /categories/

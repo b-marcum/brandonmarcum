@@ -1,0 +1,8 @@
+{{- $path := printf "icons/lucide/%s.svg" . -}}
+{{- with resources.Get $path -}}
+<span class="portfolio-icon" aria-hidden="true">
+    {{ .Content | safeHTML }}
+</span>
+{{- else -}}
+{{ errorf "Unable to find icon: %s" $path }}
+{{- end -}}

@@ -37,9 +37,13 @@
     <section class="portfolio-section">
         <h2>Areas of Expertise</h2>
 
+
         <div class="portfolio-grid">
             <article class="portfolio-card">
-                <h3>Network Architecture</h3>
+                <h3>
+                    {{ partial "portfolio-icon.html" "network" }}
+                    <span>Network Architecture</span>
+                </h3>
                 <p>
                     Data Center, Campus, Routing,
                     and scalable network design.
@@ -47,7 +51,10 @@
             </article>
 
             <article class="portfolio-card">
-                <h3>Network Automation</h3>
+                <h3>
+                    {{ partial "portfolio-icon.html" "terminal" }}
+                    <span>Network Automation</span>
+                </h3>
                 <p>
                     Python, Ansible, APIs, and
                     infrastructure as code.
@@ -55,7 +62,10 @@
             </article>
 
             <article class="portfolio-card">
-                <h3>Network Security</h3>
+                <h3>
+                    {{ partial "portfolio-icon.html" "shield-check" }}
+                    <span>Network Security</span>
+                </h3>
                 <p>
                     Network segmentation, firewall architectures,
                     secure connectivity, and zero trust networking.
@@ -63,7 +73,10 @@
             </article>
 
             <article class="portfolio-card">
-                <h3>Solutions Engineering</h3>
+                <h3>
+                    {{ partial "portfolio-icon.html" "users" }}
+                    <span>Solutions Engineering</span>
+                </h3>
                 <p>
                     Technical pre-sales, customer discovery,
                     solution design, proof-of-concept validation,
@@ -71,21 +84,21 @@
                 </p>
             </article>
         </div>
-    </section>
 
-    <section class="portfolio-section portfolio-experience">
-        <h2>Professional Background</h2>
 
-        <p>
-            My professional background spans enterprise network engineering, architecture, pre-sales solutions
-            engineering, and technical advisory. I combine hands-on experience designing and operating large-scale
-            infrastructure with helping organizations evaluate, adopt, and integrate emerging network technologies.
-        </p>
+        <section class="portfolio-section portfolio-experience">
+            <h2>Professional Background</h2>
 
-        <a class="portfolio-text-link" href="/experience/">
-            Explore my experience &rarr;
-        </a>
-    </section>
+            <p>
+                My professional background spans enterprise network engineering, architecture, pre-sales solutions
+                engineering, and technical advisory. I combine hands-on experience designing and operating large-scale
+                infrastructure with helping organizations evaluate, adopt, and integrate emerging network technologies.
+            </p>
+
+            <a class="portfolio-text-link" href="/experience/">
+                Explore my experience &rarr;
+            </a>
+        </section>
 
 
 </div>

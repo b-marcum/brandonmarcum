@@ -23,3 +23,17 @@ Blog creation example
 ```bash
 hugo new content posts/2023/first-post.md 
 ```
+
+## Licensing
+
+Original website content and photography are copyright
+Brandon Marcum. All rights reserved.
+
+Third-party software, themes, and assets remain subject
+to their respective licenses.
+
+- PaperMod — MIT License
+- Lucide Icons — ISC and MIT Licenses
+
+Third-party license notices are available in
+the `static/licenses/` directory.
